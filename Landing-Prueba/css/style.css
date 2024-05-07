@@ -1,0 +1,70 @@
+
+:root{
+	--color-dorado: #EDB44D;
+	--color-general: #adb0b8;
+	--color-titulos: #dbdce4;
+	--fondo-negro: #09090d;
+	--fondo-azul: #101117;
+	--fondo-features: #121520;
+	--fondo-footer: #040406;
+	--color-footer: #373946;
+}
+header{
+	background-color: #FFFFFF;
+	position: absolute;
+	width: 100%;
+}
+body{
+	font-size: 14px;
+	color: var(--color-general);
+}
+#hero{
+	padding: 10% 0 7%;
+	background-color: #09090d;
+}
+#features1{
+	padding: 10% 0 7%;
+	background-color: #101117;
+}
+#features2{
+	padding: 10% 0 7%;
+	background-color: #121520;
+}
+#download{
+	padding: 10% 0 7%;
+	background-color: #101117;
+}
+.btn-hero{
+	background-color: #adb0b8;
+	padding: 4px 15px;
+	border-radius: 40px;
+	font-size: 15px;
+	font-weight: 500;
+}
+h1{
+	font-size: 25px;
+	color: #EDB44D;
+}
+h2{
+	font-size: 70px;
+	color: #FFFFFF;
+}
+h3{
+	font-size: 25px;
+	color: #adb0b8;
+}
+h4{
+	text-align: center;
+	font-size: 25px;
+	color: #FFFFFF;
+}
+h5{
+	text-align: center;
+	font-size: 25px;
+	color: #FFFFFF;
+}
+
+
+
+
+
